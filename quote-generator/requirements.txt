@@ -1,0 +1,5 @@
+# No third-party dependencies.
+# This project uses only the Python standard library (the `random` module),
+# so `pip freeze` produces no packages. The file is kept intentionally so
+# teammates have a single, predictable place to install from:
+#   pip install -r requirements.txt
